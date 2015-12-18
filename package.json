@@ -2,10 +2,10 @@
   "author": "Garrett Johnson",
   "name": "envcfg",
   "description": "stupid simple environment aware configuration",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gjohnson/envcfg.git"
+    "url": "git@github.com:jtreleaven/envcfg.git"
   },
   "scripts": {
     "test": "make test"
